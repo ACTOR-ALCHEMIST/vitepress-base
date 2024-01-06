@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
+  name: "Knowedge Base"
+  text: "什么都有"
   tagline: My great project tagline
   actions:
     - theme: brand
