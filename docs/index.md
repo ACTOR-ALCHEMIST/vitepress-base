@@ -18,8 +18,9 @@ features:
   - title: IELTS
     details: 查看我的雅思笔记
     link: /ielts/
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 期末考试
+    details: Network Engineering Design and System Intergration
+    link: /finalExam/
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
