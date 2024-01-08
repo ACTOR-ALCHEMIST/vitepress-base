@@ -1,3 +1,5 @@
+
+
 # 网络考试
 
 ### 选择题*10（20分）
@@ -241,6 +243,53 @@
 
 ### 设计题*1（30分）
 
+### P109-7:
 
+![image-20240108195306311](index.assets/image-20240108195306311.png)
+
+![image-20240108195352660](index.assets/image-20240108195352660.png)
+
+##### 配置：
+
++ OSPF 配置：
+  + Ospf的配置：图中的RW1~RW5，最先启动的被选举成DR。如果RW1~RW5中任意两个同时启动，或者重新选举，则看接口优先级（范围0~255)，优先级最高的被选举成DR。默认情况下，多路访问网络接口优先级为1。点到点网络接口优先级为O。修改接口优先级的命令是“ip ospf priority”，如果接口优先级被设置为0，则该接口不参加DR选举。
+
++ 主核心设备VRRP配置。
+
+  + ```RS1(config)# interface vlan 10 ;配置Vlan10的IP地址
+    RS1(config-if)# ip address 176.16.10.2 255.255.255.0
+    
+    RS1(config-if)# standby 1 ip 176.16.10.1 ;配置vlan10的虚拟网关IP
+    
+    RS1(config-if)# standby 1 preempt ;设为抢占模式。
+    ```
+
++ 汇聚层配置MSTP
+
+  + ```S1(config)#spanning-tree ;开启生成树协议
+    S1(config)#spanning-tree ;开启生成树协议
+    S1(config)#spanning-tree mode mstp ;配置生成树类型S1(config)#spanning-tree mst configuration
+    S1(config-mst)#instance 1 vlan 10,30
+    S1(config-mst)#revision 1 ;配置多生成树的版本号S1(config-mst)#instance 2 vlan 20,40 ;
+    S1(config-mst)#revision 1 S1(config-mst)#exit
+    ```
+
++ 基于源IP地址的策略路由（边界路由器）
+
+  + ```sisco
+    R1(config)#access-list 1 permit 176.16.1.11 ;
+    R1(config)#access-list 2 permit 176.16.1.12;设置主机B允许访问列表
+    R1(config)#route-map RULE1 permit 10 ;设置主机A的策略路由序号为10
+    R1(config-route-map)#match ip address 1 ;设置匹配地址access-list 1
+    R1(config-route-map)#set ip next-hop 176.16.12.1;设置数据包的下一跳地址
+    R1(config)#route-map RULE1 permit 20 ;设置主机B的策略路由序号为20
+    ```
 
 ***
+
+### P110-8:
+
+![image-20240108195519247](index.assets/image-20240108195519247.png)
+
+![image-20240108195527120](index.assets/image-20240108195527120.png)
+
