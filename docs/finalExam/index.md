@@ -18,7 +18,7 @@
   + 多个路由器组成一个虚拟路由器
   + 多个路由器共享一个IP
   + 发生故障时快速转移
-  + 提升抗灾型、容错性、可靠性
+  +  提升抗灾型、容错性、可靠性
 
 + #### RIP：（Routing Information Protocol）
 
@@ -84,7 +84,7 @@
 + 实现不同网络协议的互联
 + 对数据处理，收发数据包
 + 对数据分组过滤、复用、加密、压缩及防护
-+ 依照路由表对数据包进行转发
+  + 依照路																																																																																																																																																																																																																																										转发
 + 根据路由协议与相邻路由器交换路由表
 + 网络管理
   + acl
@@ -259,7 +259,7 @@
 
 + 主核心设备VRRP配置。
 
-  + ```RS1(config)# interface vlan 10 ;配置Vlan10的IP地址
+  + ```
     RS1(config-if)# ip address 176.16.10.2 255.255.255.0
     
     RS1(config-if)# standby 1 ip 176.16.10.1 ;配置vlan10的虚拟网关IP
@@ -269,17 +269,20 @@
 
 + 汇聚层配置MSTP
 
-  + ```S1(config)#spanning-tree ;开启生成树协议
+  + ```
     S1(config)#spanning-tree ;开启生成树协议
-    S1(config)#spanning-tree mode mstp ;配置生成树类型S1(config)#spanning-tree mst configuration
+    S1(config)#spanning-tree mode mstp ;配置生成树类型S1
+    (config)#spanning-tree mst configuration
     S1(config-mst)#instance 1 vlan 10,30
-    S1(config-mst)#revision 1 ;配置多生成树的版本号S1(config-mst)#instance 2 vlan 20,40 ;
-    S1(config-mst)#revision 1 S1(config-mst)#exit
+    S1(config-mst)#revision 1 ;配置多生成树的版本号
+    S1(config-mst)#instance 2 vlan 20,40 ;
+    S1(config-mst)#revision 1 
+    S1(config-mst)#exit
     ```
 
 + 基于源IP地址的策略路由（边界路由器）
 
-  + ```sisco
+  + ```
     R1(config)#access-list 1 permit 176.16.1.11 ;
     R1(config)#access-list 2 permit 176.16.1.12;设置主机B允许访问列表
     R1(config)#route-map RULE1 permit 10 ;设置主机A的策略路由序号为10
