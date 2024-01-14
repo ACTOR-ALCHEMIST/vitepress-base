@@ -78,7 +78,34 @@
 
 #### 主体(我方原因1+原因2)
 
+| 满分衔接句答案                                               |
+| ------------------------------------------------------------ |
+| Actually, there have already been many shining examples that testify to the significance of the provision of financial aid for the popularity of higher education and the advancement of medical service. |
+| It is necessary to emphasize an important point that the authority should give priority to the monetary support to the aspects of popularizing higher educaion, upgrading public transportation as well as developing medical service. |
+|                                                              |
 
+| 直接给出论点的写法                                           |
+| ------------------------------------------------------------ |
+| Actually, there..                                            |
+| It is also necessary to emphasize another important point that such financial policy is considered as a major driver to economic prosperity |
+| 直接接论证                                                   |
+
+
+
++ 我方观点1
+
+  + 1. Actually, there have already been many shining examples that testify to ..（名词短语）
+    2. It is necessary to emphasize an important point that （句子）
+
+    + Primily， 论据1
+
+    + Secondarily，论据2
+
+    + ***
+
+    + The most obvious factor is that...
+
+    + On top of that...
 
 #### 结尾(总结立场/建议)
 

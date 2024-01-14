@@ -206,3 +206,121 @@
 >>
 >> quay=shore
 
+***
+
+>### C16T2P3
+>
+>> 27
+>>
+>> human race = human being = human
+>>
+>> revered = 崇敬
+>>
+>> few and far between = rare
+>>
+>> exceptional = 非凡
+>>
+>>  此处in fact暗含转折关系：有人认为智慧是少数人特定的品质，但实际上我们大多数人都有智慧
+>
+>> 28
+>>
+>> more powerful than previously imagined = be underestimated 
+>>
+>> 随着场景的不同而不同”，这是为了进一步解释第一句的观点。而并非强调 “不同人之间能力的不同”。如果要选该选项，原文中应提及 “有的人的能力怎么样，而另一些人的能力又怎么样
+>>
+>> Varies 并没有同义替换，被骗了
+>
+>> 29
+>>
+>> situations = 场合
+>>
+>> unfolds as a function of situations people happen to be in.
+>>
+>> = 而是展示了人们恰好身处其中的场合所起的作用
+>
+>> 34
+>>
+>> look at scenarios from a third-party perspective
+>>
+>> scenarios = 场景
+>>
+>>  **third-party perspective = 第三人称视角 = objectivity**
+>
+>> 35
+>>
+>> 不认识单词
+>>
+>> first-person viewpoint = 第一人称视角
+>>
+>> 不认识单词
+>>
+>>  focus more on interpersonal 原词
+>>
+>> fairness = 公平性 = such as justice and impartiality.
+>>
+>> **A and other B A属于B**
+>
+>> 36
+>>
+>> The students were instructed（与choose矛盾）
+>>
+>> 他们是被指派的、被要求的，并非由自己选择的。所以选择FALSE。错在动词
+>
+>> 38
+>>
+>> 题干：在伴侣实验中，亲密关系的维系时长对于结果【是否有影响】
+>>
+>> 对比元素不一样
+>>
+>> egocentric condition = 自我为中心的状况
+>
+>> 39
+>>
+>> 记错意思
+>>
+>> a more detached viewpoint = 更超脱的视角
+>>
+>> detach = 脱离
+>>
+>>  to rely on wise reasoning = 靠智慧推理
+>
+>### C15T2P3
+>
+>> 27
+>>
+>>  注意强调的点
+>>
+>>  rich resources for studying = value to scientific research.
+>
+>> 28
+>>
+>> social spectrum = 社会阶层 != social situation = 社交场合
+>>
+>> Group setting = social situation
+>>
+>> 不明显，但可以排除 
+>
+>> 29
+>>
+>> Cultures = societies = groups = communities = countries
+>
+>> 37
+>>
+>> 文中的意思是分别问朋友还是陌生人，而不是两者对比
+>
+>> 38
+>>
+>> submissive = 忍让、顺从
+>>
+>> 看得不够细
+>
+>> 40
+>>
+>> 结论不一致
+>>
+>> 脑子里不要以为，要每个点都考虑到
+>>
+>> established = traditional
+>>
+>> Although 转折
+
