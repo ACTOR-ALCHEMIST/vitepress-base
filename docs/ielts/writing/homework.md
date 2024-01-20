@@ -30,7 +30,7 @@ To sum up, Melbourne's annual temperatures is lower than Darwin's by about 10 de
 
 ### 3
 
-<img src="homework.assets/Screenshot 2024-01-19 at 18.57.04-5661841.png" alt="Screenshot 2024-01-19 at 18.57.04" style="zoom:50%;" />
+<img src="./homework.assets/Screenshot 2024-01-19 at 18.57.04-5661841.png" alt="Screenshot 2024-01-19 at 18.57.04" style="zoom:50%;" />
 
 <img src="homework.assets/Screenshot 2024-01-19 at 18.57.38-5661863.png" alt="Screenshot 2024-01-19 at 18.57.38" style="zoom:50%;" />
 
@@ -127,7 +127,7 @@ Advises:
 
 ### 青少年犯罪原因和方案
 
-<img src="homework.assets/Screenshot 2024-01-19 at 19.24.23-5663471.png" alt="Screenshot 2024-01-19 at 19.24.23" style="zoom:50%;" />
+<img src="./homework.assets/Screenshot 2024-01-19 at 19.24.23-5663471.png" alt="Screenshot 2024-01-19 at 19.24.23" style="zoom:50%;" />
 
 ### the rate of juvenile delinquency is rising rapidly. Give possible reasons and solutions. 
 
