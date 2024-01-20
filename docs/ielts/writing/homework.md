@@ -2,7 +2,7 @@
 
 ### 1
 
-<img src="homework.assets/Screenshot 2024-01-20 at 18.45.43.png" alt="Screenshot 2024-01-20 at 18.45.43" style="zoom:50%;" />
+<img src="./homework.assets/Screenshot 2024-01-20 at 18.45.43.png" alt="Screenshot 2024-01-20 at 18.45.43" style="zoom:50%;" />
 
 The line graph illustrates the changes in the proportion of cinema visitors between four different age groups in 20 years from 1990 to 2010.
 
