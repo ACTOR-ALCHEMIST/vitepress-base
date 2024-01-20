@@ -32,9 +32,9 @@ To sum up, Melbourne's annual temperatures is lower than Darwin's by about 10 de
 
 <img src="./homework.assets/Screenshot 2024-01-19 at 18.57.04-5661841.png" alt="Screenshot 2024-01-19 at 18.57.04" style="zoom:50%;" />
 
-<img src="homework.assets/Screenshot 2024-01-19 at 18.57.38-5661863.png" alt="Screenshot 2024-01-19 at 18.57.38" style="zoom:50%;" />
+<img src="./homework.assets/Screenshot 2024-01-19 at 18.57.38-5661863.png" alt="Screenshot 2024-01-19 at 18.57.38" style="zoom:50%;" />
 
-<img src="homework.assets/Screenshot 2024-01-19 at 19.18.45.png" alt="Screenshot 2024-01-19 at 19.18.45" style="zoom:50%;" />
+<img src="./homework.assets/Screenshot 2024-01-19 at 19.18.45.png" alt="Screenshot 2024-01-19 at 19.18.45" style="zoom:50%;" />
 
 The bar charts illustrate the figure for the rare of vehicle arriving on time and the quantities of advises from passengers in an American bus company in 4 years from 1999 to 2003.
 
