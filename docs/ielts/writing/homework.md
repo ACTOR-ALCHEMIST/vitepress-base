@@ -147,5 +147,16 @@ In conclusion, the cause of juvenile criminals are various and it requires multi
 
 
 
-Due to the explosion of information and the spiraling internet, too many negatve mindsets and actions be observed by the youth. Therefore, 
 
+
+***
+
+<img src="./homework.assets/Screenshot 2024-01-21 at 00.34.33.png" alt="Screenshot 2024-01-21 at 00.34.33" style="zoom:50%;" />
+
+It is widely accepted that giving priority to major competitions is a good way to increase the soft power of a country. Some people argue that putting more emphasize on the large-scare competitions may be better, whereas others hold the view that governments should attach more importance to the education of the young generation. Overall, I agree with this point.
+
+Surely, there is an assumption that some governors invest athelts and other sports facilities can help the country to get more awards in the worldwide competitions, because better training environments, of nutrition food and experienced coaches are more likely to instruct better athletes and getting into the first tear of the world. This point seems to be reasonable to some extent. However, in spite of this, I am not in favor of this idea for the reason that sometimes, raising the investments of this cannot increase the performance of athelets, excessive luxury life styles may have a negative effect on the fit and speed of sports mans.
+
+Actually, there have been many shining examples that testify to encouraging children to change the nation's sports ability. For example, in Japan, the governments encourage a large number of pupils to take part in the soccer games, which not only instilled a sense of achievement but also find the gifted young people to join the national teams, which offered the substencial sources of expert athletes. Also, is it necessary to emphasize another important fact that giving more priority to the young generation's sports can often mean that it will attract more focus by the publics. Therefore, if the increasing number of persons attach more importance to the sports, citizens' healthy is likely to improve due to more sports daily routing.
+
+In conclusion, from all points elaborated in the previous paragraphs, we can arrive the conclusion that it is wise to investment youth rather than major competitions or professional athletes.
