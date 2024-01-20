@@ -76,6 +76,10 @@
     + Even so, there are certainly dangers in doing sth.
     + Nevertheless, other people reject this, pointing out that..
 
+
+
+## 2双边讨论
+
 #### 主体(我方原因1+原因2)
 
 | 满分衔接句答案                                               |
@@ -112,4 +116,44 @@
 
 
 #### 
+
+## 报告文
+
++ 开头(3句话)
+
+  + 过去背景（最好原创，表明原因）
+    + eg：In the past, seeking a satisfactory career seemed easy for people with an university qualification because the number of graduates was not as many as the present and most of their occupations were allocated by authorities.
+    + 过去，拥有大学学历的人似乎很容易找到一份满意的职业，因为当时的毕业生人数没有现在这么多，而且他们的职业大多是由当局分配的。
+  + 对比现状（列举数据, 通常为改写题目）
+    + 例如如下统计资料
+    + The rate of juvenile delinquency is rising rapidly
+  + 引出下文（背完整句子：）
+    + It is necessary that we ascertain the causes of this disturbing issue and explore effective solutions to handle it.
+
+  >开头示例
+  >
+  >In the past, seeking a satisfactory career seemed easy for people with an university qualification because the number of graduates was not as many as the present and most of their occupations were allocated by authorities. However, the unemployment rate of graduates in modern society has been renewed annually. Therefore, it is necessary that we ascertain the causes of this disturbing issue and explore effective solutions to handle it. 
+
++ 分析段
+
+  + topic
+  + Reason1（用下列模板引出）
+    + In terms of the *individual aspect*,__ is the root cause.+(解释)As is know to all, ___
+  + Reason2
+    + Wen it comes to the *social side*, __ is the major factor.+(解释) This is related to the fact that__
+    + Another reason is that............. 
+
++ 方案段
+
+  + Considering the seriousness of this disturbing issue, effective solutions jshould be addressed to hendle it.
+  + R1
+    + The Most importantly, __
+  + R2
+    + To relieve such situation related to competition, __
+
++ 结尾段
+
+  + In conclusion, the causes of __ are various and it requires multi-faceted approaches such as __ to solve such modern scourge.
+
+
 

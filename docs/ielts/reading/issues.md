@@ -324,3 +324,153 @@
 >>
 >> Although 转折
 
+***
+
+> ### C17T4P2
+>
+> > 17
+> >
+> > 划关键词越细越好，两个匹配上才能选
+> >
+> > 段落内容匹配
+> >
+> > suited to research = an excellent laboratory
+> >
+> > theories of economic growth = link between education and economic growth
+> >
+> > 重点在研究的替换，但找的时间不够了
+>
+> > 18
+> >
+> >  list of personal possessions = the belongings of women and men
+> >
+> >  **handwritten inventories** = list
+> >
+> > 不认识inventories = 清单
+>
+> > 20
+> >
+> > reprimanded = 斥责
+> >
+> > **should have been** = 本应该；但我当成了将会需要完成
+> >
+> > listening to = paying attention to（多关注一个介词）
+>
+> > 21
+> >
+> > pay a fine = 罚款
+> >
+> > give a fine = pay a fine
+> >
+> > 没有好好分析句子结构，看到了修饰的定语
+>
+> > 26
+> >
+> > guilds = 行会
+> >
+> > blocked labour migration = opposed to
+> >
+> > 没有看清题目中的主语为guilds
+
+***
+
+> ### C8T3P2
+>
+> ##### 多选题
+>
+> protege
+>
+> runs in family = 遗传
+>
+> Unrecognized and unrewarded = never appreciate
+>
+> adversity = 困境
+>
+> ##### 判断题
+>
+> 23
+>
+> are accepted and taken for granted = 接受 = commonplace knowledge 
+>
+> does not minimise the supremacy = fails to lessen their significance.
+>
+> 
+
+***
+
+> ### C9T3T2
+>
+> >16
+> >
+> >Unlike wind power(=alternative source of energy)
+>
+> > 17
+> >
+> > saline = 含盐的
+> >
+> > North Sea oil industry（= another industry）
+>
+> > 18-22
+> >
+> > vicinity = 附近地区
+> >
+> > undersea turbines could become a big export earner
+> >
+> > earner = 赚钱者
+>
+> ### C9T3T3
+>
+> > 28
+> >
+> > leave out = 拿掉 = stripping out
+> >
+> > superfluous = redundant
+>
+> > 29
+> >
+> > shunned acclaim = 冷落好评
+>
+> > 30
+> >
+> > supermarket check-out lasers： 这个是一个机器
+> >
+> > crumpled bag = 褶皱的
+>
+> > 31
+> >
+> > 有a/an __ 会举例
+> >
+> > 有_s 会展开
+> >
+> > 后面的题对应前面的段落
+>
+> > 40
+> >
+> > anticipated
+> >
+> > limit = 极限值
+> >
+> > opening the way = 开创先河
+> >
+> > very close to Shannon's ultimate limit ：并没有超过
+
+***
+
+> ### C14 Test 3 Part 1
+>
+> > 1
+> >
+> > implicit theories of intelligence drive the way in which people（= non-scientists’ assumptions）
+> >
+> > 一直在找non- scientists的替换
+> >
+> > 
+>
+> 
+>
+> > 2
+> >
+> > lack of clarity = 指情报的定义不明确
+> >
+> > 我当成了缺乏善意！！！
+

@@ -1,3 +1,29 @@
+
+
+> miscellaneous
+>
+> underlining 提供
+>
+> metropolis
+>
+> 分号；怎么用
+>
+> fringe minority
+>
+> I am a big believer that
+>
+> Endorse
+>
+> Merit
+>
+> oscillations 震荡（n）
+
+
+
+
+
+
+
 ## AD作文连接词
 
 ### 让步段
@@ -27,8 +53,11 @@
 ### 主体段
 
 + 观点句Topic sentence
++ 两段式
   + It is necessary to emphasize an important point that
-  + As a matter of fact, it is advisable to .. rather than doing..
+  + It is also necessary to emphasize another point that__
+  + 
+    + As a matter of fact, it is advisable to .. rather than doing..
 + 论点Main idea
   + Primily， 论据1
   + Secondarily，论据2
@@ -44,5 +73,25 @@ To sum up,from all the points elaborated in the previous paragraphs,we can arriv
 
 
 
-> miscellaneous
+
+
+## DG
+
+
+
+
+
+
+
+### 开头
+
++ 背景句
++ 改写
+
++ 引出
+  + People from different cultural background seldom reach agreement on such a controversial issue.
+
+
+
+### 主体1
 
