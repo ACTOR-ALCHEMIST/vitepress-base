@@ -16,7 +16,7 @@ To sum up, the four figures presented a similar trend, and turned to a upward tr
 
 ### 2
 
-<img src="homework.assets/Screenshot 2024-01-19 at 13.07.50-5640878.png" alt="Screenshot 2024-01-19 at 13.07.50" style="zoom:50%;"  />
+<img src="./homework.assets/Screenshot 2024-01-19 at 13.07.50-5640878.png" alt="Screenshot 2024-01-19 at 13.07.50" style="zoom:50%;"  />
 
 The line graphs illustrate the climate changes about daily sunshine and temperature in a year in two Australia cities.
 
