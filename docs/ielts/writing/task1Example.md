@@ -1,6 +1,6 @@
 ## 1 复杂barchart
 
-![image-20240123183712002](./task1 example.assets/image-20240123183712002-6006237-6006589.png)
+![image-20240123183712002](./task1 example.assets/image-20240123183712002.png)
 
 The chart indicates the sales amount of five commodities which a particular American shop sold based on four seasons over the year of 2011, measured in US dollars. 
 
