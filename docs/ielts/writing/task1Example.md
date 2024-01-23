@@ -115,3 +115,4 @@ Firstly, the soil being compressed by heavy logging equipment, becomes hard and 
 Thirdly, clear-cutting of forest make the risk of deliberate or accidental burning increase. When the waste wood from logging is destroyed, the number of micro-organisms that feed on the waste will reduce. Meanwhile, pioneer species move in and vegetation is degraded. The whole process eventually gives rise to a great loss of biodiversity. Finally, due to deforestation, plants release less moisture into the air, which is one of the major contributors to less precipitation, and then aridity frequently occurs. 
 
 Overall, it could be observed that soil erosion, vegetation degradation and increased drought are major causes of biodiversity loss. 
+
