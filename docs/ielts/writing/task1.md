@@ -176,3 +176,114 @@ ___
 >___ is (almost) equivalent to ___ at ___.
 >___ is the same as ___, occupying ___.
 >__ and ___ are almost the same.
+
+
+
+## 流程图
+
++ 一般现在时
++ 多用被动语态
++ 使用定语从句来增加句型
++ 每一步写清楚变成了什么
+
+### 连接词：
+
+__can be devided into 3 phases.
+
+
+
+Stage/step/phase
+
+
+
+1. in the first stage
+2. it takes
+3. stage three of the process is when __ after___ 
+4. last ___ until
+5. Finally, the end of the whole cycle is marked by__
+
+
+
+动词
+
+depict
+
+
+
+凑数：
+
++ 同位语
+
++ 先————
+
++ 然乎————
+
++ 直到————
+
+  + after which the __ is _ed.
+
+  
+
+
+
+
+
+
+
+
+
+<img src="./task1.assets/Screenshot 2024-01-21 at 15.20.08-5821621.png" alt="Screenshot 2024-01-21 at 15.20.08" style="zoom:50%;" />
+
+The flow chart illustrates the recycling process of tosted glass bottles.
+
+The process can be devided into 3 stages. To begin with, wasted glass bottles is collected by people who will sent it to the collection points. Then, them will be transported to the glass factory by a van. At the second stage, the bottles is washed by high-pressure water, which is sorted into three different color categories at the same time. Subsequently, them are crashed into fregments in a glass factory. 
+
+Then, the glass pieces will be burned in furnaces until transforming into liquid. After that, recycled liquid glsss and new liquid glass will be mixed in a bottle shaped mould. Therefore, the new bottles is produced. The end of the whle cycle is marked by sending them into the supermarkets, and lay them down at the shelf, which is readed for sale.
+
+The process of recycling glass bottles consists of numerous steps, all of which lead to the finished product.
+
+
+
++ Is/are!!!!!!
++ Ready 是形容词
++ 可数与不可数
+
+
+
++ ranging from __ to __
++ 结尾凑字数:
+  + Eg: The process of making canned fruit consists of numerous steps, all of which lead to the finished product.
+
+
+
+
+
+
+
+
+
+
+
+## 地图题
+
++ 偏动态表达
++ 时态不固定
+
+|      | 图名    | 动词                                        | 动词后成分 |
+| ---- | ------- | ------------------------------------------- | ---------- |
+| 单图 | The map | Compares/shows/illustrates/presents/reviews |            |
+| 双图 |         |                                             |            |
+
+|             |                   |
+| ----------- | ----------------- |
+| less forest | deforestation     |
+| more houses | urbanlisation     |
+| More shops  | commercillasation |
+| More        | indus             |
+|             |                   |
+
+课堂练习：
+
+The first map depicts a small park in 1980. Looking at the details, the a arch shaped road connected with two gates, west gate and south gate. At the same time, there is a small pond located in the south west corner, which was arrounded by a small number of flowers and benches. By contrast, the south west of the park is a flower ocean. And the remaining part of the park is distributed numerous trees.
+
+In contrast, currently, the pond and the jungle in the south part remain unchanged, whereas, the west gate is removed. Also, all flowers in this park is vanished and the flower sea have been transformed into a sports field. Obviously, the band road has been expanded into a crossroad, which connect south, east, west, and north direction of the park. Specifically, in the north east corner, some table and a barbecue campsite have been built.

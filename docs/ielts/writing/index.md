@@ -15,3 +15,8 @@
 
 # 练习
 [历史作文](./homework.md)
+
+## Task1范文
+
+[task1 example](./task1 example.md)
+

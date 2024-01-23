@@ -44,6 +44,34 @@ Looking at the second bar chart, there is a drastic growth in the number of unsa
 
 To sum up, it is clear that the more amount of gaps between the proportion of actual and target, the more number of complains will be generated.
 
+
+
+### 4流程图作业(waiting to write)
+
+<img src="./homework.assets/Screenshot 2024-01-21 at 15.50.10.png" alt="Screenshot 2024-01-21 at 15.50.10" style="zoom:80%;" />
+
+The flow charts illustrate the processes of making cement and the raw materials of concrete.
+
+Looking at the first diagram, there are about 5 steps for producing cement. To begin with, limestones and clay, the ingredients of cement, are crushed into power by a crusher. Subsequently, it is sended into a tube after a mixer. After that, the compounds transmitted into a rotating heater that heat the powder. Next, heated power turns into the cement after which grinde by a grinder. The end of the process of the cement is markde by packing cement into the bags.
+
+The second diagram demonstrates the percentage of the concrete's raw materials. It is clear that concrete is made of a few water, a small amount of cement, some sand and a large rate of small stones. In the four materials, the proportion of the gravel is the biggest, at a half of the sum. By contrast, the percentage of water is the smallest, just accounting for 10%. Also, the rate of the sand takes up one second of the small stones(25%). Finally, the ratio of the cement is second lest, by 15%. 
+
+To sum up, the final phase of the concrete is marked by the rotation of the concrete mixer which mixs the all raw materials and come up with the final procuct - the concrete.
+
+
+
+### 5 柱状图高难度作业，可7
+
+<img src="./homework.assets/1111705823050_.pic-5823493.jpg" alt="1111705823050_.pic" style="zoom:50%;" />
+
+The bar char  demonstrates the figure for sales in the five categories of goods within four seasons in 2011 measured with US dollars.
+
+Specifically, the amount of the jewelry accounted for the highest proportion in the other five goods(about 100000 averagely), which plummeted dramatically from 120000 in winter to 80000 in spring. Subsequently, it climbed continuously for the rest of the perid in this year, rising to 100000. By contrast, the sales of male clothing accounted for the smallest percentage in them. Specifically, the figure for it dropped consistently during the first three seasons with the figure decreasing from 40000 in winter to 20000 in summer. Afterwarders it returned to about 30000 in autumn. At the same time, the trend of female clothing is almost the same with the male, which is higher than male around 50000 respectively.
+
+Looking at the details, the the income of cosmetics plunged drastically diving to close to 30000 in summer after which remained stable during winter and spring nearby 50000. Afterwards, it soared fiercely to over 70000 in autumn. However, the figure for sports oscillated significantly between roughly 40000 and 60000 throughout this year.
+
+To sum up, the sale of clothes and jewelry is ranked the highest in winter, which is followed by the figure in autumn.
+
 ***
 
 # 大作文作业
@@ -140,6 +168,15 @@ Considering the seriousness of this disturbing issue, effective solutions should
 In conclusion, the cause of juvenile criminals are various and it requires multi-faceted approaches such as the society, the governments and the entrepreneurs to solve such modern scourge.
 
 
+
+**comment：**
+
++ perform 是动词
++ information 不可数
++ back不是动词
++ supervise 是动词
++ supervision是名词
++ increasing是名词
 
 
 
