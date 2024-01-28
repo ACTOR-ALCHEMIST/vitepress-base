@@ -74,6 +74,48 @@ To sum up, the sale of clothes and jewelry is ranked the highest in winter, whic
 
 ***
 
+### 6 可高分饼图
+
+<img src="./task1 example.assets/Screenshot 2024-01-23 at 18.40.26-6006437.png" alt="Screenshot 2024-01-23 at 18.40.26" style="zoom:50%;" />
+
+> 未批改：1.24
+>
+> 2.0
+
+The three pie charts compares the varations in the proportion of school running costs by five different categories in separated three years in UK.
+
+The first pie chart demonstrates the figure in 1981 and at the same time the figure for teachers' incomes ranked at the top, with 40%, which was followed by the figure for other workers' wages, at 28%. However, a smallest proportion can be seen in the percentage of insurance, only accounting for 2%. Moreover, the rate of resources such as books and furniture/equipment was the same, making up 15% respectively.
+
+Compared with the aforementioned figures, the percentage of insurance increased mildly during the first 10 years, which was followed by an substential growth to 8% in 2001. The figure for teachers's incomes oscillated between 40% and 50% with a two-decades's period. Noticeably, 1991 and 2001 witnessed a definitely opposited trend in the proportion of furniture and equipment, and resources with the former shrinking to 5% before reaching the top(23%), and the latter plunging drastically to 9% before rosing mildly in 1991, increasing by 5%.
+
+To sum up, it is clearly that the proportion of teachers' wages accounted for the highest part in the whole periods of the school runnign fees.
+
+
+
+
+
+
+
+
+
+The three pie charts demonstrate the figure for the particular school annual spending in the United Kingdom of Great Britain and the Northen Ireland within 1981, 1991, and 2001 respectively.
+
+The first pie chart illustrates the figure for fees in 1981, Specifically, the teacher's salaries ranked at the top, by 40%, which was followed by the percentage of other workers' salaries, accounting for about 30%. By contrast, the proportion of insurance was made up about only 2%. Also, an equal percentage can be seen in the remaining figures, which was resources such as books as well as furnitures and equipments at 15% respectively.
+
+Looking at the details of the second pie chart, The prcentage of teachers' salaries accounted a half of the sum(50%). The rest of the figures was splited out into four parts wihle the figure for other workers' salaries and resources were almost the same, by 21% averagely. Also, the rate of insurance ranked at the smallest, which was followed by the proportion of furnitures and equipments.
+
+The last pie chart showed the spending in 2001. there was a dramatic climb in the figure for furnitures and equipments from 5% in 1991 to 23% in 2001. At the same time, resources halved, decreasing to about one-tenth. Also, the proportion of two form of salaries shrinked about 6% respectively. And the insurance grew mildly, rising to 8% in 2001.
+
+
+
+
+
+
+
+
+
+***
+
 # 大作文作业
 
 #### Some people said the government should not spend money on building theaters and sports stadiums. Instead, it should spend money on medical care and education. Do you agree or disagree?
@@ -197,3 +239,21 @@ Surely, there is an assumption that some governors invest athelts and other spor
 Actually, there have been many shining examples that testify to encouraging children to change the nation's sports ability. For example, in Japan, the governments encourage a large number of pupils to take part in the soccer games, which not only instilled a sense of achievement but also find the gifted young people to join the national teams, which offered the substencial sources of expert athletes. Also, is it necessary to emphasize another important fact that giving more priority to the young generation's sports can often mean that it will attract more focus by the publics. Therefore, if the increasing number of persons attach more importance to the sports, citizens' healthy is likely to improve due to more sports daily routing.
 
 In conclusion, from all points elaborated in the previous paragraphs, we can arrive the conclusion that it is wise to investment youth rather than major competitions or professional athletes.
+
+
+
+
+
+
+
+## 1.26 Task2(未批改)
+
+<img src="./homework.assets/Screenshot 2024-01-26 at 15.14.44-6253289.png" alt="Screenshot 2024-01-26 at 15.14.44" style="zoom:50%;" />
+
+The increasing amount of fossil fuels in the world has been drilling under ground, which is under question. Some people believe that united nations should pay attention to this and squeeze the consumption of such fuels immediately such as gasoline and oil. It seems to me that this opinion is implausible.
+
+Admittedly, there is no doubt that the consumption of a large amount of fossil fuels will have a negative impact on the environments. For example, the sinking of the earth crust due to the over drilling, green house effect because of the excessive dioxide emission and traffic jam thanks to numerous vehicles on the road. In spite of this, I am not in favor of this idea for the reason that industry, traffic and energy have ingrained in the development of human being and these parts are indispansable for our society.
+
+Actually, there have been many shining examples that testify to the benefits of gasoline and oil. To begin with, developing fossil fuels will have a great impact on economics, because nearly every aspect of society such as food, technology and construction are combined with energy, especially fossil fuels, which means the more development of oil industry the more prosperios of our society. Subsequently, not all nations' fossil fuels should be cutted. For instance, some center east countries that run by oils and this industry is nearly the sole breadwinner of a country, therefore, lack of those, these countries will hard to live.
+
+ In conclusion, judging from all the relevant evidences, I stand by the earlier idea that not all countries are deserved reducing fossil fuels. Also, in any case, the significance of petro should never be neglected or underestimated.

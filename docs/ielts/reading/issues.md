@@ -474,3 +474,17 @@
 > >
 > > 我当成了缺乏善意！！！
 
+***
+
+> ### C12T3P2
+>
+> > 14
+> >
+> > eradication = eliminated
+>
+> > 17
+> >
+> > discrepancy = vary
+
+***
+
