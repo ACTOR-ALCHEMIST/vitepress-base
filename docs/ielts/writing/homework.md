@@ -56,7 +56,8 @@ Looking at the first diagram, there are about 5 steps for producing cement. To b
 
 The second diagram demonstrates the percentage of the concrete's raw materials. It is clear that concrete is made of a few water, a small amount of cement, some sand and a large rate of small stones. In the four materials, the proportion of the gravel is the biggest, at a half of the sum. By contrast, the percentage of water is the smallest, just accounting for 10%. Also, the rate of the sand takes up one second of the small stones(25%). Finally, the ratio of the cement is second lest, by 15%. 
 
-To sum up, the final phase of the concrete is marked by the rotation of the concrete mixer which mixs the all raw materials and come up with the final procuct - the concrete.
+~~~To sum up, the final phase of the concrete is marked by the rotation of the concrete mixer which mixs the all raw materials and come up with the final procuct - the concrete.
+~~~
 
 
 
@@ -246,7 +247,7 @@ In conclusion, from all points elaborated in the previous paragraphs, we can arr
 
 
 
-## 1.26 Task2(未批改)
+## 1.26 Task2
 
 <img src="./homework.assets/Screenshot 2024-01-26 at 15.14.44-6253289.png" alt="Screenshot 2024-01-26 at 15.14.44" style="zoom:50%;" />
 
@@ -257,3 +258,63 @@ Admittedly, there is no doubt that the consumption of a large amount of fossil f
 Actually, there have been many shining examples that testify to the benefits of gasoline and oil. To begin with, developing fossil fuels will have a great impact on economics, because nearly every aspect of society such as food, technology and construction are combined with energy, especially fossil fuels, which means the more development of oil industry the more prosperios of our society. Subsequently, not all nations' fossil fuels should be cutted. For instance, some center east countries that run by oils and this industry is nearly the sole breadwinner of a country, therefore, lack of those, these countries will hard to live.
 
  In conclusion, judging from all the relevant evidences, I stand by the earlier idea that not all countries are deserved reducing fossil fuels. Also, in any case, the significance of petro should never be neglected or underestimated.
+
+
+
+
+
+## 1.28 （未批改）
+
+<img src="homework.assets/Screenshot 2024-01-28 at 19.14.00-6440449.png" alt="Screenshot 2024-01-28 at 19.14.00" style="zoom:50%;" />
+
+Children need properly instruction to build a right personality. It is argued by some people that parents play an important role in the education of childs while others hold the view that some affections which are outside the home are more essential. It seems to me that the latter is more plausible.
+
+Admittedly, there is no doubt that the influences of parents deeply impact on children's personality and prospects. It is true that parents are the first batch of teachers in the kids' life, in addition the parental lifestyles and their knowledges have directly decided that "how long" and "how far" their children can go. For instance, some programmar parents can teach their kids some computer skills in an early age of their children. This point seems reasonable to some extent. However, the clain could not hold the water, which is accounted on the fact that parental teaching period only account for a small amount of part in the whole life, so personal relationships, teacher's instructions and other society infulences could be more significants for a person.
+
+Actually, there have already many shining examples that testify to the children affected by outside facts. Primily, children are likely to be affected by earlier teachers such as elementary school and middle school teachers. For example, in China, kids are forced to be sent into schools from about 7 years old to around 16 years old, which is called 9 years composery education. Therefore, these people's alomst childhood is in the school and teaching by their teacher, which can often mean that their time with teachers is more than with their parents.
+
+It is important to emphasize another important fact that mature people will change their actions consciously, which is decided by their congnitives, personality and knowedges. Since nobody have same DNA, shaping out appeariance and personality, in this world, everyone's preferance are difference. Subsequently, with the increasing of the ages, people will show their special aspects. It is my belief that these parts could not affected by their parents, it is ingrained in their gene and soul, which will never be changed.
+
+In conclusion, judging from all the relevant evidences, I stand by the idea that outside infections could be a good motivator to shape one's personality. In any case, these could not be neglected and undereatmated.
+
+
+
+## 1.29 模考
+
+### 小作文：
+
+<img src="homework.assets/Screenshot 2024-01-29 at 16.47.30.png" alt="Screenshot 2024-01-29 at 16.47.30" style="zoom:50%;" />
+
+The graphs show illustrate the layouts and the changes of a public library before 20 years ago and the present.
+
+Looking at the details of the 20 years ago, there were three rooms, reading room, children's room and media room,which were placed in the southwest, northeast and nortwest corners respectively. In addition, the rest southeast corner is enquiry desk, which was made for selling tickets and book returns etc. As well as, there was a corridor in the center and connected with entrance and northen wall. At the center, two tables and some chairs standed in there, on the one hand, the left of them was some adult fiction books, on the other hand, the right way was some books about adult non-fiction books.
+
+Currently, the rooms added from 3 to 4, which is spreated out four corners in the library. Specifically, the CDs, videos, computer games room is expanded and changed into a events room for holding some storytelling events. All reference books transfered to the west corridor wihle right corridor built an information desk and three self-service machines. Nearly, the the enquiry desk was removed and a new café appeared. Finally, a change that the reading room reformed into a computer room can be seen in the south west corner.
+
+### 大作文：
+
+<img src="homework.assets/Screenshot 2024-01-29 at 16.47.56.png" alt="Screenshot 2024-01-29 at 16.47.56" style="zoom:50%;" />
+
+People living in the countryside who are running into the metropolics is under question. It is argued by some people that lost workforce in the county and plunging into the big city would have a negetive impact on out society and country. it seems to me that this point is plausible.
+
+Admittedly, there is no doubt that people running into the city is likely employed by a bigger company and increasing salary. It is true that comparing to the rural, top tier or second tier cities likely offer more occupations and wages, because mega companies and tremendous events need a large number of staffs to sustain and corporation, which makes more opportunities four labors to earn salary. However, the claim could not hold water, which is on account of the fact that with the increasing of the fierced competition, it is difficult for labors and peasants to be employed by entrepreneurs.
+
+Admittedly, there have been many shining examples that testify to people staying at countries and having a good life. Primarily, the price of real estates in countryside is extremely less than metropolics. For some proverty-striken people who are the sole breadwinner of a family, living in these places can reduce the finacial burdern and accumulate money. 
+
+On top of that, if these people leaving their home to chase their so called dreams such as marrying with a princess or to be a chief manager without any backgroud or ability, not noly they are likely difficult to get a job but also their family will suffer from more pressure due to lack of workforces.
+
+In conclusion, judging from all the relevant ideas, it seems to me that numerous people leaving countryside and running to cities will broke the balance of metropolics and the out skirt. In any cases, this development should never be neglected or underestimated.
+
+
+
+## 1.30 （未批改）
+
+<img src="homework.assets/Screenshot 2024-01-30 at 20.11.11-6616677.png" alt="Screenshot 2024-01-30 at 20.11.11" style="zoom:50%;" />
+
+Assesing the value of people in different age groups is under question. It is argued by some people that elder generation plays an more important role in our society while other people hold the view that youth are more significant. People from different background seldom reach aggrement on such a controversial issue.
+
+Actually, there have been many shining examples that testify to the value of old people. Primarily, As for Donald J Trump, former American president, who is more than 60 years old and current US president Joe Biden who is higher than 80 years old, they are still owning mega power and active constantly in their parties, which can often mean that the most powerful country is still controled by elderly people. Secondarily, in some pratical careers, supervisors and customers are more likely to give priority to elderly workers. For example, in hospital, the older doctors can often mean that they have more experiences and sometimes it will be the symbol of capeability.
+
+However, it is important to emphasize another important fact that the young generation's merits are indispensable as well. The most bovious fact is that the young usually have unlimited energy and can study rapidly due to their active brain and fit body. Therefore, it is easy to understand the value of youth from an example that most employers are more willing to hire a young worker and by countrast, employees are easily to be fired due to low productivity when they reaching the 30 years old.
+
+In conclusion, judging from all the relevant ideals, it seems to me that people in different age group have diverse shining points and expertises. In any situation, the significant of any age person should never be neglect or underestimated.
