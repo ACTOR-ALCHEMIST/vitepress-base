@@ -265,7 +265,7 @@ Actually, there have been many shining examples that testify to the benefits of 
 
 ## 1.28 （未批改）
 
-<img src="homework.assets/Screenshot 2024-01-28 at 19.14.00-6440449.png" alt="Screenshot 2024-01-28 at 19.14.00" style="zoom:50%;" />
+<img src="./homework.assets/Screenshot 2024-01-28 at 19.14.00-6440449.png" alt="Screenshot 2024-01-28 at 19.14.00" style="zoom:50%;" />
 
 Children need properly instruction to build a right personality. It is argued by some people that parents play an important role in the education of childs while others hold the view that some affections which are outside the home are more essential. It seems to me that the latter is more plausible.
 
@@ -283,7 +283,7 @@ In conclusion, judging from all the relevant evidences, I stand by the idea that
 
 ### 小作文：
 
-<img src="homework.assets/Screenshot 2024-01-29 at 16.47.30.png" alt="Screenshot 2024-01-29 at 16.47.30" style="zoom:50%;" />
+<img src="./homework.assets/Screenshot 2024-01-29 at 16.47.30.png" alt="Screenshot 2024-01-29 at 16.47.30" style="zoom:50%;" />
 
 The graphs show illustrate the layouts and the changes of a public library before 20 years ago and the present.
 
@@ -293,7 +293,7 @@ Currently, the rooms added from 3 to 4, which is spreated out four corners in th
 
 ### 大作文：
 
-<img src="homework.assets/Screenshot 2024-01-29 at 16.47.56.png" alt="Screenshot 2024-01-29 at 16.47.56" style="zoom:50%;" />
+<img src="./homework.assets/Screenshot 2024-01-29 at 16.47.56.png" alt="Screenshot 2024-01-29 at 16.47.56" style="zoom:50%;" />
 
 People living in the countryside who are running into the metropolics is under question. It is argued by some people that lost workforce in the county and plunging into the big city would have a negetive impact on out society and country. it seems to me that this point is plausible.
 
@@ -309,7 +309,7 @@ In conclusion, judging from all the relevant ideas, it seems to me that numerous
 
 ## 1.30 （未批改）
 
-<img src="homework.assets/Screenshot 2024-01-30 at 20.11.11-6616677.png" alt="Screenshot 2024-01-30 at 20.11.11" style="zoom:50%;" />
+<img src="./homework.assets/Screenshot 2024-01-30 at 20.11.11-6616677.png" alt="Screenshot 2024-01-30 at 20.11.11" style="zoom:50%;" />
 
 Assesing the value of people in different age groups is under question. It is argued by some people that elder generation plays an more important role in our society while other people hold the view that youth are more significant. People from different background seldom reach aggrement on such a controversial issue.
 
